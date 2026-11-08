@@ -6,8 +6,6 @@ Monthly invoicing for contractors whose hourly rates change over time. The tool 
 
 The setting is a fictional design and web studio with nine contractors. **All data is fictional** (see [About the data](#about-the-data)).
 
-Live demo: _link to be added after the first GitHub Pages deployment_
-
 ![Billing screen with two blocked invoices](docs/screenshots/billing-blocked.png)
 
 ## The problem
