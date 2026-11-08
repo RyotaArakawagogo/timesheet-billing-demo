@@ -1,5 +1,7 @@
 # Contractor billing demo
 
+**Live demo:** https://ryotaarakawagogo.github.io/timesheet-billing-demo/
+
 Monthly invoicing for contractors whose hourly rates change over time. The tool matches every time entry to the rate in effect on its work date, calculates each contractor's monthly invoice, and exports it as a PDF invoice and a CSV detail file. Both files are built from the same calculation result.
 
 The setting is a fictional design and web studio with nine contractors. **All data is fictional** (see [About the data](#about-the-data)).
