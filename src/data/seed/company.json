@@ -1,0 +1,14 @@
+{
+  "name": "Larkspur & Vale Studio",
+  "timeZone": "America/Chicago",
+  "currency": "USD",
+  "invoicePrefix": "LVS",
+  "paymentTermsDays": 30,
+  "address": {
+    "line1": "2150 W Hollis Street, Suite 3",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60612",
+    "country": "United States"
+  }
+}

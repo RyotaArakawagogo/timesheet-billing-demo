@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p101",
+    "code": "FWC-WEB",
+    "name": "Website rebuild",
+    "client": "Fernwood Family Clinic"
+  },
+  {
+    "id": "p102",
+    "code": "QLC-PKG",
+    "name": "Packaging refresh",
+    "client": "Quarry Lane Coffee Roasters"
+  },
+  {
+    "id": "p103",
+    "code": "TMM-APP",
+    "name": "Exhibit companion app",
+    "client": "Tidewater Maritime Museum"
+  },
+  {
+    "id": "p104",
+    "code": "MPB-SHOP",
+    "name": "Online store",
+    "client": "Maple & Pine Books"
+  },
+  {
+    "id": "p105",
+    "code": "LVS-DS",
+    "name": "Internal design system",
+    "client": "Larkspur & Vale Studio"
+  }
+]

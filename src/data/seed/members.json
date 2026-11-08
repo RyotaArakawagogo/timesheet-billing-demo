@@ -1,0 +1,47 @@
+[
+  {
+    "id": "m01",
+    "name": "Amara Okafor",
+    "role": "UI Designer"
+  },
+  {
+    "id": "m02",
+    "name": "Mateo Fernández",
+    "role": "Front-end Developer"
+  },
+  {
+    "id": "m03",
+    "name": "Yuki Tanabe",
+    "role": "Illustrator"
+  },
+  {
+    "id": "m04",
+    "name": "Priya Raman",
+    "role": "Brand Designer"
+  },
+  {
+    "id": "m05",
+    "name": "Lukas Novák",
+    "role": "Back-end Developer"
+  },
+  {
+    "id": "m06",
+    "name": "Sofia Lindqvist",
+    "role": "Motion Designer"
+  },
+  {
+    "id": "m07",
+    "name": "Hamid Rahimi",
+    "role": "Copywriter"
+  },
+  {
+    "id": "m08",
+    "name": "Leilani Kahale",
+    "role": "Project Coordinator"
+  },
+  {
+    "id": "m09",
+    "name": "Thandiwe Nkosi",
+    "role": "Junior Designer"
+  }
+]

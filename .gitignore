@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.log
+.env
+.env.*
+
+# Local working notes (not part of the portfolio)
+progress.md
+knowledge.md

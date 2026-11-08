@@ -1,0 +1,74 @@
+[
+  {
+    "id": "r01",
+    "memberId": "m01",
+    "effectiveFrom": "2025-10-01",
+    "hourlyRateCents": 6850
+  },
+  {
+    "id": "r02",
+    "memberId": "m02",
+    "effectiveFrom": "2025-11-01",
+    "hourlyRateCents": 7200
+  },
+  {
+    "id": "r03",
+    "memberId": "m02",
+    "effectiveFrom": "2026-03-16",
+    "hourlyRateCents": 7800
+  },
+  {
+    "id": "r04",
+    "memberId": "m03",
+    "effectiveFrom": "2025-09-01",
+    "hourlyRateCents": 5850
+  },
+  {
+    "id": "r05",
+    "memberId": "m04",
+    "effectiveFrom": "2026-01-01",
+    "hourlyRateCents": 6400
+  },
+  {
+    "id": "r06",
+    "memberId": "m04",
+    "effectiveFrom": "2026-04-13",
+    "hourlyRateCents": 6750
+  },
+  {
+    "id": "r07",
+    "memberId": "m05",
+    "effectiveFrom": "2025-08-01",
+    "hourlyRateCents": 8250
+  },
+  {
+    "id": "r08",
+    "memberId": "m05",
+    "effectiveFrom": "2026-04-01",
+    "hourlyRateCents": 8600
+  },
+  {
+    "id": "r09",
+    "memberId": "m06",
+    "effectiveFrom": "2025-12-01",
+    "hourlyRateCents": 6900
+  },
+  {
+    "id": "r10",
+    "memberId": "m06",
+    "effectiveFrom": "2026-02-18",
+    "hourlyRateCents": 7150
+  },
+  {
+    "id": "r11",
+    "memberId": "m07",
+    "effectiveFrom": "2026-02-16",
+    "hourlyRateCents": 5400
+  },
+  {
+    "id": "r12",
+    "memberId": "m08",
+    "effectiveFrom": "2026-03-01",
+    "hourlyRateCents": 4950
+  }
+]

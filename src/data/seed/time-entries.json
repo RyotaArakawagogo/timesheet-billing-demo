@@ -1,0 +1,5754 @@
+[
+  {
+    "id": "te-0001",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-01T14:46:00Z",
+    "minutes": 161,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0002",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-02T14:17:00Z",
+    "minutes": 64,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0003",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-02T16:02:00Z",
+    "minutes": 205,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0004",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-02T16:06:00Z",
+    "minutes": 71,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0005",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-02-02T16:24:00Z",
+    "minutes": 237,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0006",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-02T17:37:00Z",
+    "minutes": 65,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0007",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-03T14:34:00Z",
+    "minutes": 30,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0008",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-03T14:36:00Z",
+    "minutes": 22,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0009",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-02-03T14:47:00Z",
+    "minutes": 181,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0010",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-03T14:48:00Z",
+    "minutes": 60,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0011",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-03T14:52:00Z",
+    "minutes": 118,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0012",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-03T15:42:00Z",
+    "minutes": 136,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0013",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-03T15:45:00Z",
+    "minutes": 150,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0014",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-03T17:31:00Z",
+    "minutes": 176,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0015",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-03T18:24:00Z",
+    "minutes": 93,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0016",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-03T20:40:00Z",
+    "minutes": 164,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0017",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-04T03:30:00Z",
+    "minutes": 39,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0018",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-04T14:28:00Z",
+    "minutes": 108,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0019",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-04T15:07:00Z",
+    "minutes": 74,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0020",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-04T15:48:00Z",
+    "minutes": 221,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0021",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-04T15:52:00Z",
+    "minutes": 180,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0022",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-04T16:21:00Z",
+    "minutes": 113,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0023",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-05T14:07:00Z",
+    "minutes": 76,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0024",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-05T14:55:00Z",
+    "minutes": 223,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0025",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-05T15:04:00Z",
+    "minutes": 134,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0026",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-05T15:14:00Z",
+    "minutes": 72,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0027",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-05T15:19:00Z",
+    "minutes": 234,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0028",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-05T15:55:00Z",
+    "minutes": 160,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0029",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-05T17:38:00Z",
+    "minutes": 120,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0030",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-05T19:43:00Z",
+    "minutes": 48,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0031",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-05T20:38:00Z",
+    "minutes": 93,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0032",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-06T14:41:00Z",
+    "minutes": 73,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0033",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-06T14:47:00Z",
+    "minutes": 38,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0034",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-06T15:13:00Z",
+    "minutes": 226,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0035",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-06T15:45:00Z",
+    "minutes": 159,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0036",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-06T16:10:00Z",
+    "minutes": 73,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0037",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-02-06T16:34:00Z",
+    "minutes": 148,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0038",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-06T17:40:00Z",
+    "minutes": 20,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0039",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-06T18:13:00Z",
+    "minutes": 157,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0040",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-06T19:38:00Z",
+    "minutes": 27,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0041",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-02-09T14:20:00Z",
+    "minutes": 22,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0042",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-09T14:54:00Z",
+    "minutes": 119,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0043",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T14:56:00Z",
+    "minutes": 188,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0044",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-09T15:24:00Z",
+    "minutes": 171,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0045",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T15:58:00Z",
+    "minutes": 190,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0046",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-09T16:30:00Z",
+    "minutes": 53,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0047",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-09T17:16:00Z",
+    "minutes": 183,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0048",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-09T18:07:00Z",
+    "minutes": 95,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0049",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T18:48:00Z",
+    "minutes": 89,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0050",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T19:16:00Z",
+    "minutes": 41,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0051",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T20:00:00Z",
+    "minutes": 222,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0052",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-09T20:10:00Z",
+    "minutes": 200,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0053",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-09T21:06:00Z",
+    "minutes": 22,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0054",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-10T14:06:00Z",
+    "minutes": 41,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0055",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-10T15:34:00Z",
+    "minutes": 94,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0056",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-10T16:04:00Z",
+    "minutes": 35,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0057",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-10T16:13:00Z",
+    "minutes": 92,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0058",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-10T17:45:00Z",
+    "minutes": 30,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0059",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-10T18:02:00Z",
+    "minutes": 21,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0060",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-10T18:27:00Z",
+    "minutes": 40,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0061",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-10T18:28:00Z",
+    "minutes": 132,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0062",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-10T19:30:00Z",
+    "minutes": 99,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0063",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-11T14:09:00Z",
+    "minutes": 159,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0064",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-11T15:55:00Z",
+    "minutes": 191,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0065",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-11T16:18:00Z",
+    "minutes": 187,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0066",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-11T17:24:00Z",
+    "minutes": 180,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0067",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-11T19:31:00Z",
+    "minutes": 230,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0068",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-12T14:05:00Z",
+    "minutes": 28,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0069",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-12T15:10:00Z",
+    "minutes": 117,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0070",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-12T15:11:00Z",
+    "minutes": 116,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0071",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-12T16:05:00Z",
+    "minutes": 47,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0072",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-02-12T16:05:00Z",
+    "minutes": 85,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0073",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-12T16:29:00Z",
+    "minutes": 158,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0074",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-12T17:41:00Z",
+    "minutes": 34,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0075",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-12T20:16:00Z",
+    "minutes": 60,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0076",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-12T21:53:00Z",
+    "minutes": 21,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0077",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-13T14:02:00Z",
+    "minutes": 77,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0078",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-13T14:37:00Z",
+    "minutes": 40,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0079",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-13T14:57:00Z",
+    "minutes": 85,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0080",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-13T15:06:00Z",
+    "minutes": 165,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0081",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-13T15:28:00Z",
+    "minutes": 21,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0082",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-13T15:41:00Z",
+    "minutes": 109,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0083",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-13T16:47:00Z",
+    "minutes": 33,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0084",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-13T16:53:00Z",
+    "minutes": 179,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0085",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-13T18:35:00Z",
+    "minutes": 183,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0086",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-13T18:46:00Z",
+    "minutes": 211,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0087",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-13T20:52:00Z",
+    "minutes": 134,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0088",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-14T14:11:00Z",
+    "minutes": 153,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0089",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-16T14:05:00Z",
+    "minutes": 156,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0090",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-02-16T14:40:00Z",
+    "minutes": 128,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0091",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-16T14:42:00Z",
+    "minutes": 192,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0092",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-16T15:06:00Z",
+    "minutes": 78,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0093",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-16T15:13:00Z",
+    "minutes": 143,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0094",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-16T15:25:00Z",
+    "minutes": 180,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0095",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-02-16T15:31:00Z",
+    "minutes": 110,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0096",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-16T17:21:00Z",
+    "minutes": 73,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0097",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-16T17:46:00Z",
+    "minutes": 146,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0098",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-16T18:43:00Z",
+    "minutes": 113,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0099",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-16T18:45:00Z",
+    "minutes": 44,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0100",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-16T19:20:00Z",
+    "minutes": 81,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0101",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-16T21:13:00Z",
+    "minutes": 31,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0102",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-02-17T02:10:00Z",
+    "minutes": 52,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0103",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-17T14:05:00Z",
+    "minutes": 212,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0104",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-17T14:13:00Z",
+    "minutes": 53,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0105",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-17T14:54:00Z",
+    "minutes": 29,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0106",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-17T14:55:00Z",
+    "minutes": 214,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0107",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-17T15:00:00Z",
+    "minutes": 61,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0108",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-17T15:17:00Z",
+    "minutes": 119,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0109",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-17T15:55:00Z",
+    "minutes": 25,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0110",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-17T17:17:00Z",
+    "minutes": 54,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0111",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-17T17:46:00Z",
+    "minutes": 40,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0112",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-18T01:46:00Z",
+    "minutes": 76,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0113",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-18T05:45:00Z",
+    "minutes": 40,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0114",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-18T14:12:00Z",
+    "minutes": 186,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0115",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-18T14:17:00Z",
+    "minutes": 116,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0116",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-18T14:17:00Z",
+    "minutes": 195,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0117",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-18T15:38:00Z",
+    "minutes": 94,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0118",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-18T15:54:00Z",
+    "minutes": 78,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0119",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-18T16:22:00Z",
+    "minutes": 131,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0120",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-18T17:42:00Z",
+    "minutes": 197,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0121",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-18T17:52:00Z",
+    "minutes": 185,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0122",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-18T18:04:00Z",
+    "minutes": 234,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0123",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-18T21:23:00Z",
+    "minutes": 91,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0124",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-19T01:11:00Z",
+    "minutes": 27,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0125",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-02-19T01:31:00Z",
+    "minutes": 43,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0126",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-19T14:29:00Z",
+    "minutes": 139,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0127",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-19T14:41:00Z",
+    "minutes": 167,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0128",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-19T15:54:00Z",
+    "minutes": 197,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0129",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-19T17:54:00Z",
+    "minutes": 177,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0130",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-19T20:08:00Z",
+    "minutes": 43,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0131",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-19T21:37:00Z",
+    "minutes": 75,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0132",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-20T14:00:00Z",
+    "minutes": 95,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0133",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-20T14:07:00Z",
+    "minutes": 204,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0134",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-20T14:10:00Z",
+    "minutes": 167,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0135",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-02-20T15:20:00Z",
+    "minutes": 41,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0136",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-02-20T15:54:00Z",
+    "minutes": 62,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0137",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-20T16:12:00Z",
+    "minutes": 200,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0138",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-20T16:18:00Z",
+    "minutes": 108,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0139",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-20T17:01:00Z",
+    "minutes": 71,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0140",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-20T17:43:00Z",
+    "minutes": 77,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0141",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-20T18:46:00Z",
+    "minutes": 156,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0142",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-20T19:10:00Z",
+    "minutes": 108,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0143",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-20T20:11:00Z",
+    "minutes": 76,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0144",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-20T22:13:00Z",
+    "minutes": 64,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0145",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-23T14:16:00Z",
+    "minutes": 38,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0146",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-23T14:40:00Z",
+    "minutes": 222,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0147",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-23T15:44:00Z",
+    "minutes": 46,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0148",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-23T15:59:00Z",
+    "minutes": 169,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0149",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-23T16:10:00Z",
+    "minutes": 31,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0150",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-23T16:22:00Z",
+    "minutes": 170,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0151",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-02-23T16:29:00Z",
+    "minutes": 238,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0152",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-23T17:45:00Z",
+    "minutes": 142,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0153",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-23T18:33:00Z",
+    "minutes": 101,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0154",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-23T19:35:00Z",
+    "minutes": 104,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0155",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-02-23T21:10:00Z",
+    "minutes": 77,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0156",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-24T14:00:00Z",
+    "minutes": 222,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0157",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-24T15:31:00Z",
+    "minutes": 100,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0158",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-24T15:48:00Z",
+    "minutes": 24,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0159",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-24T16:10:00Z",
+    "minutes": 94,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0160",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-24T16:10:00Z",
+    "minutes": 165,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0161",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-02-24T16:11:00Z",
+    "minutes": 92,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0162",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-24T17:08:00Z",
+    "minutes": 25,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0163",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-24T17:57:00Z",
+    "minutes": 168,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0164",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-24T18:35:00Z",
+    "minutes": 112,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0165",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-02-24T18:35:00Z",
+    "minutes": 185,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0166",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-25T15:20:00Z",
+    "minutes": 211,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0167",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-25T15:29:00Z",
+    "minutes": 55,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0168",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-25T15:51:00Z",
+    "minutes": 123,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0169",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-25T16:03:00Z",
+    "minutes": 21,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0170",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-25T16:06:00Z",
+    "minutes": 91,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0171",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-25T16:08:00Z",
+    "minutes": 145,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0172",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-25T16:39:00Z",
+    "minutes": 72,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0173",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-25T16:43:00Z",
+    "minutes": 29,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0174",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-25T18:19:00Z",
+    "minutes": 73,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0175",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-02-25T18:53:00Z",
+    "minutes": 31,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0176",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-02-25T20:00:00Z",
+    "minutes": 83,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0177",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-26T14:10:00Z",
+    "minutes": 72,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0178",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-26T14:22:00Z",
+    "minutes": 191,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0179",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-02-26T15:00:00Z",
+    "minutes": 234,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0180",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-26T15:01:00Z",
+    "minutes": 176,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0181",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-02-26T18:42:00Z",
+    "minutes": 22,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0182",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-26T19:47:00Z",
+    "minutes": 209,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0183",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-02-26T19:59:00Z",
+    "minutes": 27,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0184",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-27T14:24:00Z",
+    "minutes": 207,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0185",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-02-27T15:30:00Z",
+    "minutes": 149,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0186",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-02-27T15:46:00Z",
+    "minutes": 202,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0187",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-02-27T15:49:00Z",
+    "minutes": 191,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0188",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-27T16:04:00Z",
+    "minutes": 171,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0189",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-02-27T18:29:00Z",
+    "minutes": 112,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0190",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-02-27T19:11:00Z",
+    "minutes": 93,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0191",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-02-27T19:43:00Z",
+    "minutes": 30,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0192",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-02-27T19:48:00Z",
+    "minutes": 157,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0193",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-02-27T21:12:00Z",
+    "minutes": 69,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0194",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-01T05:20:00Z",
+    "minutes": 95,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0195",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-03-01T05:30:00Z",
+    "minutes": 45,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0196",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-03-02T14:02:00Z",
+    "minutes": 109,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0197",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-02T14:22:00Z",
+    "minutes": 116,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0198",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-02T14:33:00Z",
+    "minutes": 35,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0199",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-02T14:37:00Z",
+    "minutes": 134,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0200",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-02T14:52:00Z",
+    "minutes": 79,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0201",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-02T15:45:00Z",
+    "minutes": 111,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0202",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-03-02T16:14:00Z",
+    "minutes": 222,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0203",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-02T16:23:00Z",
+    "minutes": 175,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0204",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-02T16:42:00Z",
+    "minutes": 24,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0205",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-02T16:52:00Z",
+    "minutes": 51,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0206",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-02T17:54:00Z",
+    "minutes": 119,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0207",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-02T17:54:00Z",
+    "minutes": 187,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0208",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-02T18:23:00Z",
+    "minutes": 181,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0209",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-02T21:54:00Z",
+    "minutes": 79,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0210",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-03T14:01:00Z",
+    "minutes": 128,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0211",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-03T14:03:00Z",
+    "minutes": 65,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0212",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-03T14:52:00Z",
+    "minutes": 164,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0213",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-03T15:26:00Z",
+    "minutes": 138,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0214",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-03T15:30:00Z",
+    "minutes": 147,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0215",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T15:38:00Z",
+    "minutes": 50,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0216",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T15:49:00Z",
+    "minutes": 81,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0217",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T15:53:00Z",
+    "minutes": 82,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0218",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T16:48:00Z",
+    "minutes": 37,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0219",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T17:05:00Z",
+    "minutes": 198,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0220",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-03T17:50:00Z",
+    "minutes": 187,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0221",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-03T17:58:00Z",
+    "minutes": 182,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0222",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-03T18:06:00Z",
+    "minutes": 194,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0223",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-03T18:37:00Z",
+    "minutes": 113,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0224",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-03T18:46:00Z",
+    "minutes": 140,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0225",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-03T22:02:00Z",
+    "minutes": 71,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0226",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-04T14:12:00Z",
+    "minutes": 181,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0227",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-04T14:51:00Z",
+    "minutes": 237,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0228",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-04T15:00:00Z",
+    "minutes": 155,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0229",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-04T15:06:00Z",
+    "minutes": 56,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0230",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-04T15:43:00Z",
+    "minutes": 48,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0231",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-04T15:46:00Z",
+    "minutes": 203,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0232",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-03-04T16:29:00Z",
+    "minutes": 192,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0233",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-03-04T17:12:00Z",
+    "minutes": 101,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0234",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-04T17:22:00Z",
+    "minutes": 184,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0235",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-04T18:37:00Z",
+    "minutes": 139,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0236",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-04T19:22:00Z",
+    "minutes": 104,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0237",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-04T19:25:00Z",
+    "minutes": 36,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0238",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-04T19:52:00Z",
+    "minutes": 64,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0239",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-04T19:54:00Z",
+    "minutes": 99,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0240",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-04T21:22:00Z",
+    "minutes": 24,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0241",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-05T14:09:00Z",
+    "minutes": 115,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0242",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-03-05T14:22:00Z",
+    "minutes": 118,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0243",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-05T14:57:00Z",
+    "minutes": 220,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0244",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-05T15:03:00Z",
+    "minutes": 31,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0245",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-05T15:26:00Z",
+    "minutes": 85,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0246",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-03-05T15:26:00Z",
+    "minutes": 80,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0247",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-05T16:13:00Z",
+    "minutes": 232,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0248",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-05T17:05:00Z",
+    "minutes": 33,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0249",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-05T17:47:00Z",
+    "minutes": 199,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0250",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-05T18:00:00Z",
+    "minutes": 61,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0251",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-05T19:12:00Z",
+    "minutes": 142,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0252",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-05T21:47:00Z",
+    "minutes": 52,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0253",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-06T14:11:00Z",
+    "minutes": 108,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0254",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-06T14:12:00Z",
+    "minutes": 22,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0255",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-06T16:05:00Z",
+    "minutes": 185,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0256",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-06T16:23:00Z",
+    "minutes": 169,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0257",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-06T20:17:00Z",
+    "minutes": 49,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0258",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-07T15:28:00Z",
+    "minutes": 139,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0259",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-08T05:30:00Z",
+    "minutes": 60,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0260",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-08T07:15:00Z",
+    "minutes": 60,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0261",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-09T01:50:00Z",
+    "minutes": 75,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0262",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-09T13:22:00Z",
+    "minutes": 161,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0263",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-09T13:29:00Z",
+    "minutes": 51,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0264",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-09T13:33:00Z",
+    "minutes": 117,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0265",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-09T13:41:00Z",
+    "minutes": 178,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0266",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-09T13:59:00Z",
+    "minutes": 114,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0267",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-03-09T15:02:00Z",
+    "minutes": 206,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0268",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-09T15:03:00Z",
+    "minutes": 143,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0269",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-09T16:38:00Z",
+    "minutes": 76,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0270",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-09T17:06:00Z",
+    "minutes": 86,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0271",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-10T13:44:00Z",
+    "minutes": 27,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0272",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-10T14:10:00Z",
+    "minutes": 239,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0273",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-10T14:20:00Z",
+    "minutes": 142,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0274",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-10T14:42:00Z",
+    "minutes": 90,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0275",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-10T14:48:00Z",
+    "minutes": 218,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0276",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-10T14:50:00Z",
+    "minutes": 220,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0277",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-10T14:57:00Z",
+    "minutes": 175,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0278",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-10T16:46:00Z",
+    "minutes": 225,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0279",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-10T18:33:00Z",
+    "minutes": 232,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0280",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-10T18:58:00Z",
+    "minutes": 77,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0281",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-10T20:46:00Z",
+    "minutes": 128,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0282",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-03-11T13:06:00Z",
+    "minutes": 217,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0283",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-11T13:21:00Z",
+    "minutes": 103,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0284",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T13:49:00Z",
+    "minutes": 83,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0285",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-11T14:52:00Z",
+    "minutes": 175,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0286",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-11T14:54:00Z",
+    "minutes": 205,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0287",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T14:58:00Z",
+    "minutes": 141,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0288",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-11T15:28:00Z",
+    "minutes": 157,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0289",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T16:15:00Z",
+    "minutes": 70,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0290",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T16:58:00Z",
+    "minutes": 97,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0291",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-11T17:50:00Z",
+    "minutes": 147,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0292",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T18:13:00Z",
+    "minutes": 215,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0293",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-11T18:38:00Z",
+    "minutes": 66,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0294",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-11T19:00:00Z",
+    "minutes": 188,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0295",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-11T20:44:00Z",
+    "minutes": 30,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0296",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-12T13:34:00Z",
+    "minutes": 118,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0297",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-03-12T14:08:00Z",
+    "minutes": 134,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0298",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-12T14:17:00Z",
+    "minutes": 206,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0299",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-12T14:42:00Z",
+    "minutes": 205,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0300",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-12T15:08:00Z",
+    "minutes": 64,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0301",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-12T15:26:00Z",
+    "minutes": 240,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0302",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-12T16:35:00Z",
+    "minutes": 81,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0303",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-12T16:37:00Z",
+    "minutes": 63,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0304",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-12T17:23:00Z",
+    "minutes": 182,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0305",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-12T18:14:00Z",
+    "minutes": 69,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0306",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-12T19:08:00Z",
+    "minutes": 48,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0307",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-12T20:26:00Z",
+    "minutes": 89,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0308",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-13T01:31:00Z",
+    "minutes": 66,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0309",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T13:15:00Z",
+    "minutes": 192,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0310",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T13:35:00Z",
+    "minutes": 147,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0311",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-13T13:40:00Z",
+    "minutes": 120,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0312",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-03-13T13:46:00Z",
+    "minutes": 221,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0313",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-13T14:00:00Z",
+    "minutes": 184,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0314",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-13T14:12:00Z",
+    "minutes": 49,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0315",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-13T14:32:00Z",
+    "minutes": 222,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0316",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T16:13:00Z",
+    "minutes": 145,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0317",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T17:03:00Z",
+    "minutes": 81,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0318",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-13T18:24:00Z",
+    "minutes": 103,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0319",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T19:04:00Z",
+    "minutes": 91,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0320",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-13T19:47:00Z",
+    "minutes": 189,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0321",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-03-15T14:01:00Z",
+    "minutes": 215,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0322",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-16T04:35:00Z",
+    "minutes": 65,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0323",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-03-16T13:37:00Z",
+    "minutes": 88,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0324",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-16T13:42:00Z",
+    "minutes": 158,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0325",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-16T14:08:00Z",
+    "minutes": 34,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0326",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-16T15:15:00Z",
+    "minutes": 121,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0327",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-16T17:04:00Z",
+    "minutes": 80,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0328",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-16T17:40:00Z",
+    "minutes": 92,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0329",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-16T18:55:00Z",
+    "minutes": 84,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0330",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-17T00:13:00Z",
+    "minutes": 48,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0331",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-17T13:38:00Z",
+    "minutes": 68,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0332",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-17T13:52:00Z",
+    "minutes": 103,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0333",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-17T15:11:00Z",
+    "minutes": 211,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0334",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-17T15:18:00Z",
+    "minutes": 67,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0335",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-17T15:27:00Z",
+    "minutes": 217,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0336",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-17T15:47:00Z",
+    "minutes": 50,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0337",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-17T17:23:00Z",
+    "minutes": 230,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0338",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-17T17:39:00Z",
+    "minutes": 34,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0339",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-17T19:44:00Z",
+    "minutes": 142,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0340",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T13:06:00Z",
+    "minutes": 203,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0341",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-18T13:21:00Z",
+    "minutes": 231,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0342",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-18T14:02:00Z",
+    "minutes": 50,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0343",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T14:25:00Z",
+    "minutes": 36,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0344",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-18T15:02:00Z",
+    "minutes": 215,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0345",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T15:22:00Z",
+    "minutes": 68,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0346",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T15:24:00Z",
+    "minutes": 21,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0347",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-18T15:37:00Z",
+    "minutes": 39,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0348",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-18T16:10:00Z",
+    "minutes": 90,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0349",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T17:21:00Z",
+    "minutes": 22,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0350",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-18T17:23:00Z",
+    "minutes": 189,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0351",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-18T18:34:00Z",
+    "minutes": 26,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0352",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-19T13:06:00Z",
+    "minutes": 120,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0353",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-19T13:29:00Z",
+    "minutes": 147,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0354",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-19T13:34:00Z",
+    "minutes": 112,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0355",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T13:41:00Z",
+    "minutes": 70,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0356",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-19T14:56:00Z",
+    "minutes": 218,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0357",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T15:03:00Z",
+    "minutes": 233,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0358",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-19T15:14:00Z",
+    "minutes": 127,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0359",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T15:18:00Z",
+    "minutes": 172,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0360",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T15:18:00Z",
+    "minutes": 22,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0361",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T15:23:00Z",
+    "minutes": 164,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0362",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-19T16:38:00Z",
+    "minutes": 75,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0363",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-19T17:49:00Z",
+    "minutes": 207,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0364",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-19T18:30:00Z",
+    "minutes": 56,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0365",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-19T19:26:00Z",
+    "minutes": 82,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0366",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T13:19:00Z",
+    "minutes": 218,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0367",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-03-20T13:22:00Z",
+    "minutes": 147,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0368",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-20T13:32:00Z",
+    "minutes": 190,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0369",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-20T13:35:00Z",
+    "minutes": 161,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0370",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-20T14:06:00Z",
+    "minutes": 232,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0371",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T14:19:00Z",
+    "minutes": 214,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0372",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-20T14:21:00Z",
+    "minutes": 107,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0373",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T16:23:00Z",
+    "minutes": 211,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0374",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-20T17:08:00Z",
+    "minutes": 185,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0375",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-20T17:38:00Z",
+    "minutes": 184,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0376",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T17:48:00Z",
+    "minutes": 148,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0377",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-20T18:28:00Z",
+    "minutes": 192,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0378",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T18:47:00Z",
+    "minutes": 104,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0379",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-20T20:31:00Z",
+    "minutes": 145,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0380",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-23T13:18:00Z",
+    "minutes": 74,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0381",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-23T13:25:00Z",
+    "minutes": 185,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0382",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-23T13:26:00Z",
+    "minutes": 86,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0383",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-23T13:53:00Z",
+    "minutes": 187,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0384",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-23T13:56:00Z",
+    "minutes": 164,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0385",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-23T14:30:00Z",
+    "minutes": 147,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0386",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-23T17:24:00Z",
+    "minutes": 234,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0387",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-23T17:31:00Z",
+    "minutes": 67,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0388",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-23T17:34:00Z",
+    "minutes": 185,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0389",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-24T01:33:00Z",
+    "minutes": 86,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0390",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-03-24T13:50:00Z",
+    "minutes": 49,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0391",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-24T14:45:00Z",
+    "minutes": 190,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0392",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-24T14:46:00Z",
+    "minutes": 221,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0393",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-24T15:05:00Z",
+    "minutes": 41,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0394",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-24T15:26:00Z",
+    "minutes": 239,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0395",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-24T15:27:00Z",
+    "minutes": 149,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0396",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-24T15:27:00Z",
+    "minutes": 213,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0397",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-24T16:41:00Z",
+    "minutes": 83,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0398",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-24T18:26:00Z",
+    "minutes": 208,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0399",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-24T18:46:00Z",
+    "minutes": 228,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0400",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-24T19:02:00Z",
+    "minutes": 128,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0401",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-25T00:59:00Z",
+    "minutes": 34,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0402",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-25T13:29:00Z",
+    "minutes": 90,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0403",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-25T13:57:00Z",
+    "minutes": 217,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0404",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-25T14:14:00Z",
+    "minutes": 143,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0405",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-25T14:29:00Z",
+    "minutes": 141,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0406",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-25T15:28:00Z",
+    "minutes": 38,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0407",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-25T15:52:00Z",
+    "minutes": 45,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0408",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-25T16:38:00Z",
+    "minutes": 189,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0409",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-25T17:57:00Z",
+    "minutes": 193,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0410",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T13:01:00Z",
+    "minutes": 124,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0411",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-26T13:15:00Z",
+    "minutes": 113,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0412",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-26T13:49:00Z",
+    "minutes": 132,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0413",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T14:04:00Z",
+    "minutes": 143,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0414",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T14:04:00Z",
+    "minutes": 40,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0415",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-26T14:52:00Z",
+    "minutes": 49,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0416",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T15:23:00Z",
+    "minutes": 177,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0417",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T16:01:00Z",
+    "minutes": 208,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0418",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-26T16:29:00Z",
+    "minutes": 100,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0419",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-26T16:51:00Z",
+    "minutes": 62,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0420",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-26T18:06:00Z",
+    "minutes": 39,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0421",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-26T18:56:00Z",
+    "minutes": 98,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0422",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-26T19:02:00Z",
+    "minutes": 85,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0423",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-27T02:15:00Z",
+    "minutes": 27,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0424",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-27T13:50:00Z",
+    "minutes": 86,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0425",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-27T14:02:00Z",
+    "minutes": 132,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0426",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-03-27T14:20:00Z",
+    "minutes": 181,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0427",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-27T14:42:00Z",
+    "minutes": 36,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0428",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-27T15:11:00Z",
+    "minutes": 166,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0429",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-27T15:22:00Z",
+    "minutes": 139,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0430",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-27T16:23:00Z",
+    "minutes": 97,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0431",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-27T16:54:00Z",
+    "minutes": 171,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0432",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-27T18:12:00Z",
+    "minutes": 196,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0433",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-27T20:23:00Z",
+    "minutes": 100,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0434",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T13:00:00Z",
+    "minutes": 167,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0435",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-30T13:15:00Z",
+    "minutes": 20,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0436",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-03-30T13:45:00Z",
+    "minutes": 89,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0437",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-03-30T13:53:00Z",
+    "minutes": 59,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0438",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-30T14:28:00Z",
+    "minutes": 142,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0439",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-30T14:40:00Z",
+    "minutes": 41,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0440",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-03-30T14:52:00Z",
+    "minutes": 21,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0441",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T15:04:00Z",
+    "minutes": 172,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0442",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-30T15:24:00Z",
+    "minutes": 221,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0443",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T15:24:00Z",
+    "minutes": 236,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0444",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T15:58:00Z",
+    "minutes": 222,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0445",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-03-30T16:04:00Z",
+    "minutes": 135,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0446",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T19:05:00Z",
+    "minutes": 110,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0447",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-30T19:14:00Z",
+    "minutes": 138,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0448",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-30T19:31:00Z",
+    "minutes": 176,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0449",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-03-31T01:24:00Z",
+    "minutes": 59,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0450",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-31T13:02:00Z",
+    "minutes": 128,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0451",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-03-31T14:01:00Z",
+    "minutes": 38,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0452",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-31T14:15:00Z",
+    "minutes": 203,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0453",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-03-31T14:41:00Z",
+    "minutes": 71,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0454",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-31T15:07:00Z",
+    "minutes": 20,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0455",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-03-31T15:41:00Z",
+    "minutes": 115,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0456",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-03-31T16:10:00Z",
+    "minutes": 67,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0457",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-03-31T16:18:00Z",
+    "minutes": 184,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0458",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-03-31T18:05:00Z",
+    "minutes": 118,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0459",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-03-31T18:09:00Z",
+    "minutes": 104,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0460",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-01T04:40:00Z",
+    "minutes": 70,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0461",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-04-01T13:02:00Z",
+    "minutes": 75,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0462",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-01T13:19:00Z",
+    "minutes": 107,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0463",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T13:52:00Z",
+    "minutes": 35,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0464",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T14:45:00Z",
+    "minutes": 27,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0465",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-01T14:52:00Z",
+    "minutes": 60,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0466",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-01T15:05:00Z",
+    "minutes": 103,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0467",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T15:21:00Z",
+    "minutes": 171,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0468",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T15:26:00Z",
+    "minutes": 49,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0469",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T16:18:00Z",
+    "minutes": 208,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0470",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-01T16:26:00Z",
+    "minutes": 58,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0471",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-04-01T17:02:00Z",
+    "minutes": 21,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0472",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-01T17:53:00Z",
+    "minutes": 238,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0473",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-01T18:15:00Z",
+    "minutes": 208,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0474",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-01T18:23:00Z",
+    "minutes": 206,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0475",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-02T13:06:00Z",
+    "minutes": 88,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0476",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-02T14:13:00Z",
+    "minutes": 192,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0477",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-02T14:32:00Z",
+    "minutes": 154,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0478",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-02T14:47:00Z",
+    "minutes": 169,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0479",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-02T15:19:00Z",
+    "minutes": 55,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0480",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-02T16:24:00Z",
+    "minutes": 130,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0481",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-02T17:43:00Z",
+    "minutes": 198,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0482",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-02T18:15:00Z",
+    "minutes": 61,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0483",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-02T20:19:00Z",
+    "minutes": 143,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0484",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-02T21:57:00Z",
+    "minutes": 41,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0485",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-03T14:23:00Z",
+    "minutes": 238,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0486",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-03T14:36:00Z",
+    "minutes": 135,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0487",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-03T14:44:00Z",
+    "minutes": 181,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0488",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-04-03T15:04:00Z",
+    "minutes": 215,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0489",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-03T15:21:00Z",
+    "minutes": 137,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0490",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-04-03T17:18:00Z",
+    "minutes": 133,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0491",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-03T18:04:00Z",
+    "minutes": 221,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0492",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-04-03T18:22:00Z",
+    "minutes": 240,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0493",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-03T19:10:00Z",
+    "minutes": 63,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0494",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-03T20:00:00Z",
+    "minutes": 34,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0495",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-03T21:02:00Z",
+    "minutes": 102,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0496",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-03T22:14:00Z",
+    "minutes": 45,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0497",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-06T13:09:00Z",
+    "minutes": 176,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0498",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-06T13:44:00Z",
+    "minutes": 198,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0499",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-06T14:19:00Z",
+    "minutes": 235,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0500",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-06T14:37:00Z",
+    "minutes": 34,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0501",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-06T14:51:00Z",
+    "minutes": 101,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0502",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-06T15:27:00Z",
+    "minutes": 86,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0503",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-06T17:58:00Z",
+    "minutes": 188,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0504",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-06T19:00:00Z",
+    "minutes": 118,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0505",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-07T13:28:00Z",
+    "minutes": 183,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0506",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-04-07T13:39:00Z",
+    "minutes": 20,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0507",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-07T13:40:00Z",
+    "minutes": 186,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0508",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-07T14:21:00Z",
+    "minutes": 186,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0509",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-07T14:34:00Z",
+    "minutes": 149,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0510",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-04-07T15:21:00Z",
+    "minutes": 20,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0511",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-07T16:09:00Z",
+    "minutes": 236,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0512",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-07T17:37:00Z",
+    "minutes": 58,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0513",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-07T19:00:00Z",
+    "minutes": 90,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0514",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T01:10:00Z",
+    "minutes": 67,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0515",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-08T13:05:00Z",
+    "minutes": 171,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0516",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-08T13:10:00Z",
+    "minutes": 39,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0517",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-08T13:18:00Z",
+    "minutes": 26,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0518",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T13:53:00Z",
+    "minutes": 38,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0519",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-08T14:38:00Z",
+    "minutes": 108,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0520",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-08T14:45:00Z",
+    "minutes": 227,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0521",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-08T15:01:00Z",
+    "minutes": 232,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0522",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-08T15:06:00Z",
+    "minutes": 123,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0523",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T15:09:00Z",
+    "minutes": 89,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0524",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T15:23:00Z",
+    "minutes": 238,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0525",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-08T16:53:00Z",
+    "minutes": 129,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0526",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T16:56:00Z",
+    "minutes": 34,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0527",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-08T17:01:00Z",
+    "minutes": 42,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0528",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-08T18:06:00Z",
+    "minutes": 128,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0529",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-08T18:43:00Z",
+    "minutes": 116,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0530",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-08T19:19:00Z",
+    "minutes": 140,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0531",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-08T20:00:00Z",
+    "minutes": 77,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0532",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-09T01:56:00Z",
+    "minutes": 36,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0533",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-04-09T13:25:00Z",
+    "minutes": 230,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0534",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-09T13:36:00Z",
+    "minutes": 133,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0535",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-04-09T14:02:00Z",
+    "minutes": 209,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0536",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-09T14:19:00Z",
+    "minutes": 225,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0537",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-09T14:43:00Z",
+    "minutes": 215,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0538",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-09T15:10:00Z",
+    "minutes": 74,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0539",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-09T16:19:00Z",
+    "minutes": 99,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0540",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-04-09T17:30:00Z",
+    "minutes": 95,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0541",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-09T18:13:00Z",
+    "minutes": 220,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0542",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-09T18:35:00Z",
+    "minutes": 27,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0543",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-09T18:38:00Z",
+    "minutes": 172,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0544",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-09T20:00:00Z",
+    "minutes": 55,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0545",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-10T13:28:00Z",
+    "minutes": 122,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0546",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-10T13:31:00Z",
+    "minutes": 138,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0547",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-10T14:19:00Z",
+    "minutes": 119,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0548",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-10T14:40:00Z",
+    "minutes": 109,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0549",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-10T14:42:00Z",
+    "minutes": 50,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0550",
+    "memberId": "m08",
+    "projectId": "p101",
+    "startedAt": "2026-04-10T15:53:00Z",
+    "minutes": 201,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0551",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-04-10T16:00:00Z",
+    "minutes": 25,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0552",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-10T16:37:00Z",
+    "minutes": 117,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0553",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-10T17:30:00Z",
+    "minutes": 231,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0554",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-10T20:26:00Z",
+    "minutes": 84,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0555",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-11T14:27:00Z",
+    "minutes": 38,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0556",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-12T14:26:00Z",
+    "minutes": 194,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0557",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-13T04:15:00Z",
+    "minutes": 80,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0558",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-13T13:21:00Z",
+    "minutes": 163,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0559",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-13T14:18:00Z",
+    "minutes": 228,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0560",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-13T14:25:00Z",
+    "minutes": 130,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0561",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-13T14:30:00Z",
+    "minutes": 205,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0562",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-13T14:47:00Z",
+    "minutes": 68,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0563",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-13T16:39:00Z",
+    "minutes": 196,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0564",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-13T16:46:00Z",
+    "minutes": 128,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0565",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-13T18:17:00Z",
+    "minutes": 46,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0566",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-13T19:27:00Z",
+    "minutes": 47,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0567",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-13T20:05:00Z",
+    "minutes": 171,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0568",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-14T13:39:00Z",
+    "minutes": 175,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0569",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-14T13:47:00Z",
+    "minutes": 212,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0570",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-04-14T13:48:00Z",
+    "minutes": 59,
+    "description": "Icon set revisions"
+  },
+  {
+    "id": "te-0571",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-14T13:58:00Z",
+    "minutes": 185,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0572",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-14T14:47:00Z",
+    "minutes": 123,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0573",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-14T15:05:00Z",
+    "minutes": 127,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0574",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-14T17:33:00Z",
+    "minutes": 84,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0575",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-14T17:55:00Z",
+    "minutes": 46,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0576",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-14T18:21:00Z",
+    "minutes": 43,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0577",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-14T19:13:00Z",
+    "minutes": 226,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0578",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-14T19:18:00Z",
+    "minutes": 95,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0579",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-14T19:34:00Z",
+    "minutes": 75,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0580",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-15T13:01:00Z",
+    "minutes": 139,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0581",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-15T14:11:00Z",
+    "minutes": 181,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0582",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-15T14:21:00Z",
+    "minutes": 55,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0583",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-15T14:24:00Z",
+    "minutes": 68,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0584",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-04-15T14:27:00Z",
+    "minutes": 236,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0585",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-15T14:38:00Z",
+    "minutes": 157,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0586",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-15T15:53:00Z",
+    "minutes": 196,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0587",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-15T16:06:00Z",
+    "minutes": 139,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0588",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-15T18:02:00Z",
+    "minutes": 160,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0589",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-15T18:10:00Z",
+    "minutes": 225,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0590",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-15T19:46:00Z",
+    "minutes": 29,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0591",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-15T20:54:00Z",
+    "minutes": 45,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0592",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-16T13:04:00Z",
+    "minutes": 43,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0593",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-16T13:41:00Z",
+    "minutes": 164,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0594",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-16T14:17:00Z",
+    "minutes": 38,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0595",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-04-16T14:23:00Z",
+    "minutes": 83,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0596",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-16T14:24:00Z",
+    "minutes": 119,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0597",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-04-16T14:35:00Z",
+    "minutes": 159,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0598",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-16T15:00:00Z",
+    "minutes": 33,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0599",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-16T15:33:00Z",
+    "minutes": 97,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0600",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-16T15:44:00Z",
+    "minutes": 135,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0601",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-16T17:23:00Z",
+    "minutes": 151,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0602",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-16T17:33:00Z",
+    "minutes": 28,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0603",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-04-16T17:56:00Z",
+    "minutes": 50,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0604",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-16T18:12:00Z",
+    "minutes": 237,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0605",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-16T18:37:00Z",
+    "minutes": 155,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0606",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-17T13:11:00Z",
+    "minutes": 148,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0607",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T13:44:00Z",
+    "minutes": 189,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0608",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T14:12:00Z",
+    "minutes": 186,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0609",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-17T14:44:00Z",
+    "minutes": 45,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0610",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T14:44:00Z",
+    "minutes": 224,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0611",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-17T15:21:00Z",
+    "minutes": 66,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0612",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-17T15:21:00Z",
+    "minutes": 147,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0613",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-17T15:30:00Z",
+    "minutes": 157,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0614",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-17T16:42:00Z",
+    "minutes": 90,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0615",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T17:52:00Z",
+    "minutes": 233,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0616",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-04-17T18:05:00Z",
+    "minutes": 184,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0617",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T18:06:00Z",
+    "minutes": 230,
+    "description": "Illustration sketches"
+  },
+  {
+    "id": "te-0618",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T19:09:00Z",
+    "minutes": 56,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0619",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T20:34:00Z",
+    "minutes": 76,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0620",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-04-17T21:47:00Z",
+    "minutes": 59,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0621",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-17T21:55:00Z",
+    "minutes": 38,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0622",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-18T01:14:00Z",
+    "minutes": 75,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0623",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-18T13:22:00Z",
+    "minutes": 31,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0624",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-20T14:07:00Z",
+    "minutes": 48,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0625",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-20T14:19:00Z",
+    "minutes": 231,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0626",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-20T14:52:00Z",
+    "minutes": 111,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0627",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-20T15:13:00Z",
+    "minutes": 147,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0628",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-20T15:16:00Z",
+    "minutes": 44,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0629",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-20T15:26:00Z",
+    "minutes": 70,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0630",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-20T15:28:00Z",
+    "minutes": 186,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0631",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-20T16:12:00Z",
+    "minutes": 176,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0632",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-20T17:23:00Z",
+    "minutes": 56,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0633",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-20T17:43:00Z",
+    "minutes": 103,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0634",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-20T19:11:00Z",
+    "minutes": 31,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0635",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-20T19:11:00Z",
+    "minutes": 71,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0636",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-20T20:36:00Z",
+    "minutes": 138,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0637",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-21T01:28:00Z",
+    "minutes": 33,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0638",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-21T13:07:00Z",
+    "minutes": 236,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0639",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-21T14:14:00Z",
+    "minutes": 213,
+    "description": "Exhibit intro animation"
+  },
+  {
+    "id": "te-0640",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-21T14:32:00Z",
+    "minutes": 184,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0641",
+    "memberId": "m02",
+    "projectId": "p104",
+    "startedAt": "2026-04-21T15:10:00Z",
+    "minutes": 128,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0642",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-21T15:20:00Z",
+    "minutes": 185,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0643",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-21T18:07:00Z",
+    "minutes": 65,
+    "description": "Build pipeline maintenance"
+  },
+  {
+    "id": "te-0644",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-21T19:21:00Z",
+    "minutes": 153,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0645",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-21T20:18:00Z",
+    "minutes": 106,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0646",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-22T01:02:00Z",
+    "minutes": 59,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0647",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-04-22T13:07:00Z",
+    "minutes": 217,
+    "description": "Resource scheduling"
+  },
+  {
+    "id": "te-0648",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-22T13:29:00Z",
+    "minutes": 124,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0649",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-22T14:18:00Z",
+    "minutes": 60,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0650",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-22T14:52:00Z",
+    "minutes": 232,
+    "description": "Brand guideline layout"
+  },
+  {
+    "id": "te-0651",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-22T15:08:00Z",
+    "minutes": 220,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0652",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-22T16:19:00Z",
+    "minutes": 229,
+    "description": "Search indexing"
+  },
+  {
+    "id": "te-0653",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-22T19:03:00Z",
+    "minutes": 31,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0654",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-22T20:36:00Z",
+    "minutes": 44,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0655",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-23T13:11:00Z",
+    "minutes": 153,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0656",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-23T13:38:00Z",
+    "minutes": 121,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0657",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-04-23T13:56:00Z",
+    "minutes": 202,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0658",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-23T14:19:00Z",
+    "minutes": 66,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0659",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-23T15:04:00Z",
+    "minutes": 207,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0660",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-23T18:04:00Z",
+    "minutes": 133,
+    "description": "Sprint planning"
+  },
+  {
+    "id": "te-0661",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-23T18:55:00Z",
+    "minutes": 163,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0662",
+    "memberId": "m06",
+    "projectId": "p102",
+    "startedAt": "2026-04-24T13:14:00Z",
+    "minutes": 181,
+    "description": "Storyboard revisions"
+  },
+  {
+    "id": "te-0663",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-24T13:18:00Z",
+    "minutes": 75,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0664",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-24T13:33:00Z",
+    "minutes": 40,
+    "description": "Logo exploration"
+  },
+  {
+    "id": "te-0665",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-24T14:46:00Z",
+    "minutes": 95,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0666",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-24T14:53:00Z",
+    "minutes": 103,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0667",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-24T15:01:00Z",
+    "minutes": 208,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0668",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-24T15:22:00Z",
+    "minutes": 108,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0669",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-24T16:43:00Z",
+    "minutes": 39,
+    "description": "Lottie export"
+  },
+  {
+    "id": "te-0670",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-24T17:34:00Z",
+    "minutes": 199,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0671",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-04-24T18:12:00Z",
+    "minutes": 125,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0672",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-24T19:25:00Z",
+    "minutes": 147,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0673",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-24T21:30:00Z",
+    "minutes": 62,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0674",
+    "memberId": "m03",
+    "projectId": "p102",
+    "startedAt": "2026-04-27T13:03:00Z",
+    "minutes": 56,
+    "description": "Spot illustrations"
+  },
+  {
+    "id": "te-0675",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-27T13:34:00Z",
+    "minutes": 154,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0676",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-27T14:13:00Z",
+    "minutes": 229,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0677",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-27T15:05:00Z",
+    "minutes": 76,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0678",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-04-27T15:27:00Z",
+    "minutes": 20,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0679",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-27T18:18:00Z",
+    "minutes": 171,
+    "description": "Code review"
+  },
+  {
+    "id": "te-0680",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-28T13:29:00Z",
+    "minutes": 159,
+    "description": "Microcopy review"
+  },
+  {
+    "id": "te-0681",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-28T13:40:00Z",
+    "minutes": 230,
+    "description": "Deployment and monitoring"
+  },
+  {
+    "id": "te-0682",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-28T13:52:00Z",
+    "minutes": 200,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0683",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-28T15:01:00Z",
+    "minutes": 233,
+    "description": "Packaging mockups"
+  },
+  {
+    "id": "te-0684",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-28T15:09:00Z",
+    "minutes": 220,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0685",
+    "memberId": "m08",
+    "projectId": "p105",
+    "startedAt": "2026-04-28T15:14:00Z",
+    "minutes": 210,
+    "description": "Client status call"
+  },
+  {
+    "id": "te-0686",
+    "memberId": "m03",
+    "projectId": "p103",
+    "startedAt": "2026-04-28T15:29:00Z",
+    "minutes": 57,
+    "description": "Final artwork export"
+  },
+  {
+    "id": "te-0687",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-04-28T17:05:00Z",
+    "minutes": 212,
+    "description": "Newsletter copy"
+  },
+  {
+    "id": "te-0688",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-28T18:13:00Z",
+    "minutes": 45,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0689",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-28T18:36:00Z",
+    "minutes": 104,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0690",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-28T19:23:00Z",
+    "minutes": 25,
+    "description": "Design QA on staging"
+  },
+  {
+    "id": "te-0691",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-28T19:29:00Z",
+    "minutes": 141,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0692",
+    "memberId": "m07",
+    "projectId": "p101",
+    "startedAt": "2026-04-29T02:17:00Z",
+    "minutes": 29,
+    "description": "Homepage copy draft"
+  },
+  {
+    "id": "te-0693",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-29T13:11:00Z",
+    "minutes": 42,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0694",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-29T14:07:00Z",
+    "minutes": 171,
+    "description": "Responsive layout fixes"
+  },
+  {
+    "id": "te-0695",
+    "memberId": "m08",
+    "projectId": "p103",
+    "startedAt": "2026-04-29T14:10:00Z",
+    "minutes": 194,
+    "description": "Timeline update"
+  },
+  {
+    "id": "te-0696",
+    "memberId": "m04",
+    "projectId": "p102",
+    "startedAt": "2026-04-29T14:27:00Z",
+    "minutes": 102,
+    "description": "Color system review"
+  },
+  {
+    "id": "te-0697",
+    "memberId": "m09",
+    "projectId": "p102",
+    "startedAt": "2026-04-29T14:29:00Z",
+    "minutes": 222,
+    "description": "Asset preparation"
+  },
+  {
+    "id": "te-0698",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-29T15:01:00Z",
+    "minutes": 34,
+    "description": "Design review"
+  },
+  {
+    "id": "te-0699",
+    "memberId": "m08",
+    "projectId": "p104",
+    "startedAt": "2026-04-29T17:45:00Z",
+    "minutes": 36,
+    "description": "Meeting notes"
+  },
+  {
+    "id": "te-0700",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-29T18:01:00Z",
+    "minutes": 167,
+    "description": "Navigation refactor"
+  },
+  {
+    "id": "te-0701",
+    "memberId": "m09",
+    "projectId": "p104",
+    "startedAt": "2026-04-29T18:35:00Z",
+    "minutes": 176,
+    "description": "Banner resizing"
+  },
+  {
+    "id": "te-0702",
+    "memberId": "m07",
+    "projectId": "p104",
+    "startedAt": "2026-04-30T13:11:00Z",
+    "minutes": 50,
+    "description": "Tone of voice notes"
+  },
+  {
+    "id": "te-0703",
+    "memberId": "m04",
+    "projectId": "p104",
+    "startedAt": "2026-04-30T13:12:00Z",
+    "minutes": 231,
+    "description": "Client presentation prep"
+  },
+  {
+    "id": "te-0704",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-30T13:28:00Z",
+    "minutes": 194,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0705",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T13:36:00Z",
+    "minutes": 26,
+    "description": "Accessibility fixes"
+  },
+  {
+    "id": "te-0706",
+    "memberId": "m01",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T13:49:00Z",
+    "minutes": 37,
+    "description": "Page wireframes"
+  },
+  {
+    "id": "te-0707",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T14:39:00Z",
+    "minutes": 108,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0708",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-30T14:48:00Z",
+    "minutes": 65,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0709",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T14:50:00Z",
+    "minutes": 187,
+    "description": "Database migration"
+  },
+  {
+    "id": "te-0710",
+    "memberId": "m09",
+    "projectId": "p102",
+    "startedAt": "2026-04-30T15:18:00Z",
+    "minutes": 240,
+    "description": "Banner resizing"
+  },
+  {
+    "id": "te-0711",
+    "memberId": "m01",
+    "projectId": "p104",
+    "startedAt": "2026-04-30T15:26:00Z",
+    "minutes": 202,
+    "description": "Component library updates"
+  },
+  {
+    "id": "te-0712",
+    "memberId": "m07",
+    "projectId": "p102",
+    "startedAt": "2026-04-30T16:15:00Z",
+    "minutes": 65,
+    "description": "Product description edits"
+  },
+  {
+    "id": "te-0713",
+    "memberId": "m06",
+    "projectId": "p103",
+    "startedAt": "2026-04-30T17:03:00Z",
+    "minutes": 166,
+    "description": "Sound sync pass"
+  },
+  {
+    "id": "te-0714",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T17:37:00Z",
+    "minutes": 216,
+    "description": "Form validation"
+  },
+  {
+    "id": "te-0715",
+    "memberId": "m05",
+    "projectId": "p103",
+    "startedAt": "2026-04-30T18:19:00Z",
+    "minutes": 47,
+    "description": "CMS API integration"
+  },
+  {
+    "id": "te-0716",
+    "memberId": "m05",
+    "projectId": "p101",
+    "startedAt": "2026-04-30T19:16:00Z",
+    "minutes": 220,
+    "description": "Bug triage"
+  },
+  {
+    "id": "te-0717",
+    "memberId": "m01",
+    "projectId": "p105",
+    "startedAt": "2026-04-30T19:44:00Z",
+    "minutes": 48,
+    "description": "Checkout flow mockups"
+  },
+  {
+    "id": "te-0718",
+    "memberId": "m09",
+    "projectId": "p104",
+    "startedAt": "2026-04-30T19:45:00Z",
+    "minutes": 184,
+    "description": "Asset preparation"
+  },
+  {
+    "id": "te-0719",
+    "memberId": "m02",
+    "projectId": "p101",
+    "startedAt": "2026-05-01T04:10:00Z",
+    "minutes": 50,
+    "description": "Accessibility fixes"
+  }
+]

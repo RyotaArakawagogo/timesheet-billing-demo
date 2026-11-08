@@ -1,0 +1,92 @@
+[
+  {
+    "memberId": "m01",
+    "legalName": "Amara Okafor",
+    "addressLine1": "1418 N Alder Row",
+    "addressLine2": "Apt 2F",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60622",
+    "country": "United States"
+  },
+  {
+    "memberId": "m02",
+    "legalName": "Fernández Web Studio LLC",
+    "addressLine1": "72 Larch Terrace",
+    "addressLine2": "",
+    "city": "Evanston",
+    "region": "IL",
+    "postalCode": "60201",
+    "country": "United States"
+  },
+  {
+    "memberId": "m03",
+    "legalName": "Yuki Tanabe",
+    "addressLine1": "905 Quill Avenue",
+    "addressLine2": "Unit 4",
+    "city": "Milwaukee",
+    "region": "WI",
+    "postalCode": "53212",
+    "country": "United States"
+  },
+  {
+    "memberId": "m04",
+    "legalName": "Priya Raman Design",
+    "addressLine1": "3310 W Bellwood Lane",
+    "addressLine2": "",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60618",
+    "country": "United States"
+  },
+  {
+    "memberId": "m05",
+    "legalName": "Novák Software LLC",
+    "addressLine1": "48 Copperleaf Court",
+    "addressLine2": "Suite 210",
+    "city": "Madison",
+    "region": "WI",
+    "postalCode": "53703",
+    "country": "United States"
+  },
+  {
+    "memberId": "m06",
+    "legalName": "Sofia Lindqvist",
+    "addressLine1": "58 Rowan Hollow",
+    "addressLine2": "",
+    "city": "Minneapolis",
+    "region": "MN",
+    "postalCode": "55408",
+    "country": "United States"
+  },
+  {
+    "memberId": "m07",
+    "legalName": "Hamid Rahimi",
+    "addressLine1": "2207 S Wren Street",
+    "addressLine2": "",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60608",
+    "country": "United States"
+  },
+  {
+    "memberId": "m08",
+    "legalName": "Leilani Kahale",
+    "addressLine1": "615 Juniper Bend",
+    "addressLine2": "Apt 9",
+    "city": "Oak Park",
+    "region": "IL",
+    "postalCode": "60302",
+    "country": "United States"
+  },
+  {
+    "memberId": "m09",
+    "legalName": "Thandiwe Nkosi",
+    "addressLine1": "1290 E Marlow Street",
+    "addressLine2": "",
+    "city": "Chicago",
+    "region": "IL",
+    "postalCode": "60615",
+    "country": "United States"
+  }
+]

@@ -1,0 +1,3 @@
+# Keep LF everywhere so the seed-data reproducibility check compares identical bytes on every OS.
+* text=auto eol=lf
+*.png binary

@@ -1,0 +1,467 @@
+{
+  "generatedBy": "scripts/generate-data.ts",
+  "seed": 20260201,
+  "timeZone": "America/Chicago",
+  "period": {
+    "from": "2026-02-01",
+    "to": "2026-04-30"
+  },
+  "cases": {
+    "rateChangesInPeriod": [
+      {
+        "rateId": "r03",
+        "memberId": "m02",
+        "effectiveFrom": "2026-03-16",
+        "hourlyRateCents": 7800,
+        "midMonth": true
+      },
+      {
+        "rateId": "r06",
+        "memberId": "m04",
+        "effectiveFrom": "2026-04-13",
+        "hourlyRateCents": 6750,
+        "midMonth": true
+      },
+      {
+        "rateId": "r08",
+        "memberId": "m05",
+        "effectiveFrom": "2026-04-01",
+        "hourlyRateCents": 8600,
+        "midMonth": false
+      },
+      {
+        "rateId": "r10",
+        "memberId": "m06",
+        "effectiveFrom": "2026-02-18",
+        "hourlyRateCents": 7150,
+        "midMonth": true
+      },
+      {
+        "rateId": "r11",
+        "memberId": "m07",
+        "effectiveFrom": "2026-02-16",
+        "hourlyRateCents": 5400,
+        "midMonth": true
+      },
+      {
+        "rateId": "r12",
+        "memberId": "m08",
+        "effectiveFrom": "2026-03-01",
+        "hourlyRateCents": 4950,
+        "midMonth": false
+      }
+    ],
+    "rateMissing": [
+      {
+        "entryId": "te-0045",
+        "memberId": "m07",
+        "projectId": "p102",
+        "startedAt": "2026-02-09T15:58:00Z",
+        "localDate": "2026-02-09",
+        "localTime": "09:58",
+        "utcDate": "2026-02-09",
+        "minutes": 190,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0051",
+        "memberId": "m07",
+        "projectId": "p102",
+        "startedAt": "2026-02-09T20:00:00Z",
+        "localDate": "2026-02-09",
+        "localTime": "14:00",
+        "utcDate": "2026-02-09",
+        "minutes": 222,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0072",
+        "memberId": "m07",
+        "projectId": "p101",
+        "startedAt": "2026-02-12T16:05:00Z",
+        "localDate": "2026-02-12",
+        "localTime": "10:05",
+        "utcDate": "2026-02-12",
+        "minutes": 85,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0074",
+        "memberId": "m07",
+        "projectId": "p102",
+        "startedAt": "2026-02-12T17:41:00Z",
+        "localDate": "2026-02-12",
+        "localTime": "11:41",
+        "utcDate": "2026-02-12",
+        "minutes": 34,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0077",
+        "memberId": "m07",
+        "projectId": "p102",
+        "startedAt": "2026-02-13T14:02:00Z",
+        "localDate": "2026-02-13",
+        "localTime": "08:02",
+        "utcDate": "2026-02-13",
+        "minutes": 77,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0082",
+        "memberId": "m07",
+        "projectId": "p102",
+        "startedAt": "2026-02-13T15:41:00Z",
+        "localDate": "2026-02-13",
+        "localTime": "09:41",
+        "utcDate": "2026-02-13",
+        "minutes": 109,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0151",
+        "memberId": "m08",
+        "projectId": "p105",
+        "startedAt": "2026-02-23T16:29:00Z",
+        "localDate": "2026-02-23",
+        "localTime": "10:29",
+        "utcDate": "2026-02-23",
+        "minutes": 238,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0155",
+        "memberId": "m08",
+        "projectId": "p104",
+        "startedAt": "2026-02-23T21:10:00Z",
+        "localDate": "2026-02-23",
+        "localTime": "15:10",
+        "utcDate": "2026-02-23",
+        "minutes": 77,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0161",
+        "memberId": "m08",
+        "projectId": "p101",
+        "startedAt": "2026-02-24T16:11:00Z",
+        "localDate": "2026-02-24",
+        "localTime": "10:11",
+        "utcDate": "2026-02-24",
+        "minutes": 92,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0185",
+        "memberId": "m08",
+        "projectId": "p104",
+        "startedAt": "2026-02-27T15:30:00Z",
+        "localDate": "2026-02-27",
+        "localTime": "09:30",
+        "utcDate": "2026-02-27",
+        "minutes": 149,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0190",
+        "memberId": "m08",
+        "projectId": "p101",
+        "startedAt": "2026-02-27T19:11:00Z",
+        "localDate": "2026-02-27",
+        "localTime": "13:11",
+        "utcDate": "2026-02-27",
+        "minutes": 93,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0195",
+        "memberId": "m08",
+        "projectId": "p103",
+        "startedAt": "2026-03-01T05:30:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:30",
+        "utcDate": "2026-03-01",
+        "minutes": 45,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0697",
+        "memberId": "m09",
+        "projectId": "p102",
+        "startedAt": "2026-04-29T14:29:00Z",
+        "localDate": "2026-04-29",
+        "localTime": "09:29",
+        "utcDate": "2026-04-29",
+        "minutes": 222,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0701",
+        "memberId": "m09",
+        "projectId": "p104",
+        "startedAt": "2026-04-29T18:35:00Z",
+        "localDate": "2026-04-29",
+        "localTime": "13:35",
+        "utcDate": "2026-04-29",
+        "minutes": 176,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0710",
+        "memberId": "m09",
+        "projectId": "p102",
+        "startedAt": "2026-04-30T15:18:00Z",
+        "localDate": "2026-04-30",
+        "localTime": "10:18",
+        "utcDate": "2026-04-30",
+        "minutes": 240,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0718",
+        "memberId": "m09",
+        "projectId": "p104",
+        "startedAt": "2026-04-30T19:45:00Z",
+        "localDate": "2026-04-30",
+        "localTime": "14:45",
+        "utcDate": "2026-04-30",
+        "minutes": 184,
+        "rateCents": null
+      }
+    ],
+    "monthEndLateNight": [
+      {
+        "entryId": "te-0194",
+        "memberId": "m01",
+        "projectId": "p101",
+        "startedAt": "2026-03-01T05:20:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:20",
+        "utcDate": "2026-03-01",
+        "minutes": 95,
+        "rateCents": 6850,
+        "note": "Last day of Feb; UTC date is Mar 1"
+      },
+      {
+        "entryId": "te-0195",
+        "memberId": "m08",
+        "projectId": "p103",
+        "startedAt": "2026-03-01T05:30:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:30",
+        "utcDate": "2026-03-01",
+        "minutes": 45,
+        "rateCents": null,
+        "note": "Before first rate (from Mar 1); UTC date Mar 1 would wrongly find a rate"
+      },
+      {
+        "entryId": "te-0460",
+        "memberId": "m05",
+        "projectId": "p101",
+        "startedAt": "2026-04-01T04:40:00Z",
+        "localDate": "2026-03-31",
+        "localTime": "23:40",
+        "utcDate": "2026-04-01",
+        "minutes": 70,
+        "rateCents": 8250,
+        "note": "Last day of Mar; UTC date Apr 1 would pick the Apr 1 rate and the April invoice"
+      },
+      {
+        "entryId": "te-0719",
+        "memberId": "m02",
+        "projectId": "p101",
+        "startedAt": "2026-05-01T04:10:00Z",
+        "localDate": "2026-04-30",
+        "localTime": "23:10",
+        "utcDate": "2026-05-01",
+        "minutes": 50,
+        "rateCents": 7800,
+        "note": "Last day of Apr; UTC date is May 1 (outside the period)"
+      }
+    ],
+    "rateChangeEveLateNight": [
+      {
+        "entryId": "te-0113",
+        "memberId": "m06",
+        "projectId": "p103",
+        "startedAt": "2026-02-18T05:45:00Z",
+        "localDate": "2026-02-17",
+        "localTime": "23:45",
+        "utcDate": "2026-02-18",
+        "minutes": 40,
+        "rateCents": 6900,
+        "note": "Day before rate change (Feb 18); UTC date is Feb 18"
+      },
+      {
+        "entryId": "te-0322",
+        "memberId": "m02",
+        "projectId": "p104",
+        "startedAt": "2026-03-16T04:35:00Z",
+        "localDate": "2026-03-15",
+        "localTime": "23:35",
+        "utcDate": "2026-03-16",
+        "minutes": 65,
+        "rateCents": 7200,
+        "note": "Day before rate change (Mar 16); UTC date is Mar 16"
+      },
+      {
+        "entryId": "te-0557",
+        "memberId": "m04",
+        "projectId": "p102",
+        "startedAt": "2026-04-13T04:15:00Z",
+        "localDate": "2026-04-12",
+        "localTime": "23:15",
+        "utcDate": "2026-04-13",
+        "minutes": 80,
+        "rateCents": 6400,
+        "note": "Day before rate change (Apr 13); UTC date is Apr 13"
+      }
+    ],
+    "dstTransition": [
+      {
+        "entryId": "te-0259",
+        "memberId": "m05",
+        "projectId": "p103",
+        "startedAt": "2026-03-08T05:30:00Z",
+        "localDate": "2026-03-07",
+        "localTime": "23:30",
+        "utcDate": "2026-03-08",
+        "minutes": 60,
+        "rateCents": 8250,
+        "note": "Night before DST starts (CST, UTC-6)"
+      },
+      {
+        "entryId": "te-0260",
+        "memberId": "m01",
+        "projectId": "p105",
+        "startedAt": "2026-03-08T07:15:00Z",
+        "localDate": "2026-03-08",
+        "localTime": "01:15",
+        "utcDate": "2026-03-08",
+        "minutes": 60,
+        "rateCents": 6850,
+        "note": "Spans the 02:00 -> 03:00 DST jump; ends 03:15 CDT"
+      },
+      {
+        "entryId": "te-0261",
+        "memberId": "m03",
+        "projectId": "p103",
+        "startedAt": "2026-03-09T01:50:00Z",
+        "localDate": "2026-03-08",
+        "localTime": "20:50",
+        "utcDate": "2026-03-09",
+        "minutes": 75,
+        "rateCents": 5850,
+        "note": "First evening after DST starts (CDT, UTC-5)"
+      }
+    ],
+    "utcJudgementChangesRate": [
+      {
+        "entryId": "te-0113",
+        "memberId": "m06",
+        "projectId": "p103",
+        "startedAt": "2026-02-18T05:45:00Z",
+        "localDate": "2026-02-17",
+        "localTime": "23:45",
+        "utcDate": "2026-02-18",
+        "minutes": 40,
+        "rateCents": 6900,
+        "utcJudgedRateCents": 7150
+      },
+      {
+        "entryId": "te-0195",
+        "memberId": "m08",
+        "projectId": "p103",
+        "startedAt": "2026-03-01T05:30:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:30",
+        "utcDate": "2026-03-01",
+        "minutes": 45,
+        "rateCents": null,
+        "utcJudgedRateCents": 4950
+      },
+      {
+        "entryId": "te-0322",
+        "memberId": "m02",
+        "projectId": "p104",
+        "startedAt": "2026-03-16T04:35:00Z",
+        "localDate": "2026-03-15",
+        "localTime": "23:35",
+        "utcDate": "2026-03-16",
+        "minutes": 65,
+        "rateCents": 7200,
+        "utcJudgedRateCents": 7800
+      },
+      {
+        "entryId": "te-0460",
+        "memberId": "m05",
+        "projectId": "p101",
+        "startedAt": "2026-04-01T04:40:00Z",
+        "localDate": "2026-03-31",
+        "localTime": "23:40",
+        "utcDate": "2026-04-01",
+        "minutes": 70,
+        "rateCents": 8250,
+        "utcJudgedRateCents": 8600
+      },
+      {
+        "entryId": "te-0557",
+        "memberId": "m04",
+        "projectId": "p102",
+        "startedAt": "2026-04-13T04:15:00Z",
+        "localDate": "2026-04-12",
+        "localTime": "23:15",
+        "utcDate": "2026-04-13",
+        "minutes": 80,
+        "rateCents": 6400,
+        "utcJudgedRateCents": 6750
+      }
+    ],
+    "utcJudgementChangesMonth": [
+      {
+        "entryId": "te-0194",
+        "memberId": "m01",
+        "projectId": "p101",
+        "startedAt": "2026-03-01T05:20:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:20",
+        "utcDate": "2026-03-01",
+        "minutes": 95,
+        "rateCents": 6850
+      },
+      {
+        "entryId": "te-0195",
+        "memberId": "m08",
+        "projectId": "p103",
+        "startedAt": "2026-03-01T05:30:00Z",
+        "localDate": "2026-02-28",
+        "localTime": "23:30",
+        "utcDate": "2026-03-01",
+        "minutes": 45,
+        "rateCents": null
+      },
+      {
+        "entryId": "te-0460",
+        "memberId": "m05",
+        "projectId": "p101",
+        "startedAt": "2026-04-01T04:40:00Z",
+        "localDate": "2026-03-31",
+        "localTime": "23:40",
+        "utcDate": "2026-04-01",
+        "minutes": 70,
+        "rateCents": 8250
+      },
+      {
+        "entryId": "te-0719",
+        "memberId": "m02",
+        "projectId": "p101",
+        "startedAt": "2026-05-01T04:10:00Z",
+        "localDate": "2026-04-30",
+        "localTime": "23:10",
+        "utcDate": "2026-05-01",
+        "minutes": 50,
+        "rateCents": 7800
+      }
+    ]
+  }
+}
